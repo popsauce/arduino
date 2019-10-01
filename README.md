@@ -1,3 +1,3 @@
 # Arduino
 
-## Small setups that achieve a perticular task.
+## Small setups that achieve a particular task.
