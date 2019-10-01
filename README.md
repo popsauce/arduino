@@ -1,3 +1,3 @@
 # Arduino
 
-## Small setups that achieve a particular task.
+## Small setups that execute a particular task.
